@@ -1,0 +1,42 @@
+
+[
+ 
+ {
+ "name":"Mohammad Azam",
+ "licenseNumber": "FGH1234",
+ "tickets":[
+    "Speeding over 90 MPH"
+ ]
+ },
+ 
+ {
+ "name":"John Doe",
+ "licenseNumber":"FGH1234",
+ "tickets":[
+            "Speeding over 90 MPH",
+            "Not stoping at red light",
+            "Cell phone use in school zone"
+            ]
+ },
+ {
+ "name":"Mary Doe",
+ "licenseNumber":"WSW234",
+ "tickets":[
+ 
+ ]
+ },
+ {
+ "name":"Jack Frost",
+ "licenseNumber":"AZS2345",
+ "tickets":[
+ 
+ ]
+ },
+ {
+ "name":"Linda Page",
+ "licenseNumber":"ASD342",
+ "tickets":[
+ 
+ ]
+ }
+ ]
